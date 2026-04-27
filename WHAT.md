@@ -40,3 +40,6 @@ In a span of two weeks, this project is expected to be finished alongside learni
 
 ### Note to self:
     Good luck! You can do this!
+
+#### Date started: April 17, 2026
+#### Date finished: April 27, 2026
